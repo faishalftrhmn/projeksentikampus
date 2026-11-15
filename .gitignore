@@ -1,0 +1,19 @@
+# Virtual Environment Python
+**/.venv/
+**/venv/
+**/env/
+
+# Python Cache
+**/__pycache__/
+**/*.pyc
+
+# Flutter & Dart Build Artifacts
+**/.dart_tool/
+**/.idea/
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# File Konfigurasi Lokal / Environment
+.env
+*.env.local
